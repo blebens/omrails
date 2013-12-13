@@ -117,7 +117,7 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 4.0.2)
-  sass-rails (>= 3.2)
+  sass-rails (~> 4.0.0)
   sdoc
   sqlite3
   turbolinks
