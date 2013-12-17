@@ -20,6 +20,7 @@ gem 'jquery-rails'
 
 gem 'devise'
 gem 'simple_form'
+gem "paperclip", "~> 3.0"
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
